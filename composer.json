@@ -1,0 +1,7 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^3.3",
+        "dompdf/dompdf": "^0.8.3",
+        "phpoffice/phpspreadsheet": "^1.6"
+    }
+}
